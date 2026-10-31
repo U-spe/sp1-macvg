@@ -1,4 +1,3 @@
-```js
 import {
   readdir,
   stat,
@@ -142,4 +141,3 @@ if (skippedFiles.length > 0) {
 }
 
 console.log("\nAsset preparation complete.");
-```
