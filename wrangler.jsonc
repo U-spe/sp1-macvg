@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "sp1-macvg",
+  "compatibility_date": "2026-10-23",
+  "assets": {
+    "directory": "./.worker-assets",
+    "not_found_handling": "none"
+  }
+}
